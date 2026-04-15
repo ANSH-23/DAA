@@ -1,0 +1,1 @@
+project is a Flight Route Planner that uses graph algorithms like Dijkstra and Prim to find optimal routes between cities while considering distance, cost, time, and weather factors. It also includes subset sum for budget optimization and provides a GUI for visualization.
